@@ -1,6 +1,6 @@
 # 📰 BlogYaari – Blog Management System
 
-A fully-featured Blog Management System built with **Laravel 10**, **MySQL**, **jQuery/AJAX**, and responsive **HTML/CSS**. Developed as part of the JobYaari PHP/Laravel Developer Intern Assessment.
+A fully-featured Blog Management System built with **Laravel 10**, **MySQL**, **jQuery/AJAX**, and responsive **HTML/CSS**.
 
 ---
 
@@ -211,5 +211,3 @@ The Laravel controller detects AJAX requests via `$request->ajax()` and returns 
 MIT License – Free to use for educational purposes.
 
 ---
-
-*Built with ❤️ using Laravel 10 + jQuery/AJAX for the JobYaari Developer Assessment*
